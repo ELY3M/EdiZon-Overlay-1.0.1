@@ -1,0 +1,13 @@
+{
+	"images" : [
+
+	],
+	"text" : [
+		{
+			"title" : "Introduction to EdiZon SE",
+			"path" : "text.txt",
+			"x" : 50,
+			"y" : 100
+		}
+	]
+}
